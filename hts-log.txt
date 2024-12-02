@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Dec 2024 12:53:44 at https://verizonsolucoes.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://verizonsolucoes.com
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://verizonsolucoes.com -O1 "C:\Users\Dell\Desktop\TROJAN\chkda" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://verizonsolucoes.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:53:48	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/termos/assets/style.css (from https://verizonsolucoes.com/termos/)
+12:53:49	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/personal/assets/style.css (from https://verizonsolucoes.com/personal/index.php)
+12:53:50	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/assets/style.css (from https://verizonsolucoes.com/card/index.php)
+12:53:51	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/6-limit/assets/style.css (from https://verizonsolucoes.com/card/6-limit/index.php)
+12:53:51	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/7-loading/assets/style.css (from https://verizonsolucoes.com/card/7-loading/index.php)
+12:53:53	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/8-card-info/assets/style.css (from https://verizonsolucoes.com/card/8-card-info/index.php)
+12:53:53	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/load/assets/style.css (from https://verizonsolucoes.com/card/load/index.php)
+12:53:55	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/assets/style.css (from https://verizonsolucoes.com/card/recebimento/index.php)
+12:53:55	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/index.php)
+12:53:56	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/index.php)
+12:53:57	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/index.php)
+12:53:58	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/index.php)
+12:53:59	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/sedex/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/sedex/index.php)
+12:53:59	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/pac/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/pac/index.php)
+12:53:59	Error: 	"Not Found" (404) at link https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/card/assets/style.css (from https://verizonsolucoes.com/card/recebimento/cep/confirma/maneger/sedex/card/index.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 42 links scanned, 26 files written (573346 bytes overall) [239605 bytes received at 15973 bytes/sec], 512674 bytes transferred using HTTP compression in 38 files, ratio 23%, 4.0 requests per connection
+(15 errors, 0 warnings, 0 messages)
